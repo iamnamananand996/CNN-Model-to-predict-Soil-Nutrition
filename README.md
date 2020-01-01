@@ -1,7 +1,7 @@
 # CNN-Model-to-predict-Soil-Nutrition
 
 ## Demo Link 
-- https://soil-predict.herokuapp.com/
+ https://soil-predict.herokuapp.com/
 
 Type the following commands in your terminal:
 ```bash
