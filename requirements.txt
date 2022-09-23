@@ -34,7 +34,7 @@ numpy==1.16.2
 oauth2client==3.0.0
 opencv-python==3.3.0.9
 pandas==0.24.2
-protobuf==3.7.1
+protobuf==3.18.3
 pyasn1==0.4.5
 pyasn1-modules==0.2.4
 pycryptodome==3.4.3
